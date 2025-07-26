@@ -1,2 +1,1 @@
-// MAIN 
-// My name is Satya
+// MAIN
