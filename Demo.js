@@ -1,2 +1,1 @@
-let name="Swarup"
-let surname="Sahu"
+// MAIN
